@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/8b435fd55739de251880e.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/6f899b0e7f07bba825117.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐒𝐔𝐊𝐔𝐔+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹SIKKU+✘+𝙼ᴜsɪᴄ˼+🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹𝐒𝐔𝐊𝐔𝐔+✘+𝙼ᴜsɪᴄ˼+🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/b8361901bbe504febc77d.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/540a2fca49a0fbc724059.jpg" width="600"></a></p>
 
 <h2 align="center">
     ─「 💗sᴛʀɪɴɢ sᴇssɪᴏɴ🦋 」─
@@ -75,7 +75,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>sᴜᴩᴩᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/JUST_ME_NOBITA"><img title="Telegram" src="https://img.shields.io/badge/NOBITA-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Extreme_girl3001"><img title="Telegram" src="https://img.shields.io/badge/NOBITA-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hackerdoraemon2@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/@rajnisha3"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/btw_nobita_0"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
